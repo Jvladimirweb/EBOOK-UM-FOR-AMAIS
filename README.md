@@ -36,7 +36,7 @@ Estar bem colocado em uma empresa de desenvolvimento podendo aprender e por em p
 
 ### Meus Principais Desafios de Projeto DIO
 
-Ebook com IA | https://github.com/Jvladimirweb/EBOOK-UM-FOR-AMAIS/output
+Ebook com IA | https://github.com/Jvladimirweb/EBOOK-UM-FOR-AMAIS/tree/main/output
 
 Promp ChatGPT | https://chatgpt.com/share/9a8a71da-bd7a-4a1a-b43f-e488ec32194a
 
